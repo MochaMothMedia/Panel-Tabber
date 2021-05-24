@@ -1,0 +1,16 @@
+{
+    "name": "_FedoraDev.PanelTabber.Implementations",
+    "rootNamespace": "FedoraDev.PanelTabber.Implementations",
+    "references": [
+        "GUID:8f3a7418313503b4496a21c6ad44664a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
