@@ -1,0 +1,12 @@
+{
+	"name": "com.fedoradev.paneltabber",
+	"displayName": "Panel Tabber",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"unityRelease": "2f1",
+	"description": "Quick and easy tabbing panels in Unity",
+	"author": {
+		"name": "Fedora Dev",
+		"email": "fedora.game.dev@gmail.com"
+	}
+}
