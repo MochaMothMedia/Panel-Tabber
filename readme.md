@@ -2,6 +2,10 @@
 
 Quick and easy tabbing panels in Unity
 
+![Tab Panel 1](Resources/TabPanel1.png)
+
+![Tab Panel 2](Resources/TabPanel2.png)
+
 ## Installation
 This project uses [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041), which I cannot redistribute. If you don't own Odin Inspector, I would highly recommend purchasing it otherwise you won't be able to serialize interface instances as members which completely breaks this solution.
 
